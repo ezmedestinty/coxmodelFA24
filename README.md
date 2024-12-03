@@ -7,4 +7,4 @@ The Cox Model was created via help with ChatGBT. It was using an mplus syntax fo
 For more in depth reading: https://www.emilyzabor.com/tutorials/survival_analysis_in_r_tutorial.html 
 rscript contains citations for measurements, time-to-event, and the cox porportions hazard.
 
-Youtube: https://youtu.be/QGCJcAnZIa0
+Youtube: https://www.youtube.com/watch?v=kNhMLYRW688
